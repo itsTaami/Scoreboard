@@ -1,0 +1,26 @@
+.players {
+  display: flex;
+  width: 40%;
+  height: 20vh;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 20px;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
+.score {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 20%;
+}
+.btn {
+  border-radius: 50%;
+  border: none;
+  font-size: 20px;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+}
